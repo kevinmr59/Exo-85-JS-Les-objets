@@ -1,10 +1,8 @@
 let personne = {
     prenom : "James",
-    nom : "Bond"
+    nom : "Bond",
 };
 
 /* Afficher ci dessous la propriété nom de notre objet dans un alert */
-
-alert();
-
+alert  (personne.nom);
 
